@@ -1,4 +1,4 @@
-package com.example.JaxRS.entities;
+package com.example.JaxRS.files;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

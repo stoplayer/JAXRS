@@ -1,4 +1,4 @@
-package com.example.JaxRS.entities;
+package com.example.JaxRS.files;
 
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Bean;
